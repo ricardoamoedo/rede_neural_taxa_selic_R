@@ -5,7 +5,7 @@ Este é um algoritmo de redes neurais desenvolvido em R, com o RStudio para prev
 A documentação do algoritmo neuralnet encontra-se disponível em:
 https://www.rdocumentation.org/packages/neuralnet/versions/1.44.2/topics/neuralnet
 
-O banco de dados CSV também encontra-se disponível no mesmo repositório do GitHub que contra-se o algoritmo.
+O banco de dados CSV também encontra-se disponível no mesmo repositório do GitHub do algoritmo.
 
 
 ## Pacotes necessários
