@@ -16,6 +16,7 @@ O banco de dados CSV também encontra-se disponível no mesmo repositório do Gi
 * zoo
 * forecast
 
+
 ## Gráfico da rede neural
 <p align=center>
 	<img width="470" src="img/2022-01-26_18-51.png">
@@ -34,6 +35,7 @@ O banco de dados CSV também encontra-se disponível no mesmo repositório do Gi
 <p align=center>
 	<img width="500" src="img/2022-01-26_18-53.png">
 </p>
+
 
 ## Acurácia
 
